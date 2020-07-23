@@ -1,0 +1,22 @@
+.pages {
+	display: flex;
+	justify-content: space-around;
+}
+
+.heading {
+	text-align: center;
+}
+
+.origIMG {
+	padding-top: 50px;
+	display: flex;
+	justify-content: space-around;
+}
+
+body {
+	background-color: #00f7ff
+}
+
+img {
+	border: Solid black;
+}
